@@ -75,14 +75,9 @@
 			"Volume": volume
 	};
 	
-	var options = {	exclusiveGroups: ["Building Property"],
-      			groupCheckboxes: true
-    	};
-
 	L.control.layers(base_Layers, GMUS_Layers, {
 			collapsed: false}, {
-			position: 'topright'}, options).addTo(map);
-
+			position: 'topright'}).addTo(map);
 
   </script>
 </body>
