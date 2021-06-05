@@ -1,7 +1,7 @@
 # About
 
 
-[This website](https://landbigdata.github.io/cscproject/)is maintained by Mengmeng Li, with a financial support from China Scholarship Council (Grant No 201706510011).
+[This website](https://landbigdata.github.io/cscproject/) is maintained by Mengmeng Li, with a financial support from China Scholarship Council (Grant No 201706510011).
 
 # Project Output
 
