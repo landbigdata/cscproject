@@ -27,9 +27,14 @@ ul{
 	padding:0 0;
 	margin:0 0;	
 }
-body{
+}
+Ol{
 	padding:0 0;
-	margin:0 0; 
+	margin:0 0;	
+}
+body{
+	padding:10 10;
+	margin:10 10; 
 	font-family: 'Source Sans Pro', sans-serif;
 }
 .header-top {
