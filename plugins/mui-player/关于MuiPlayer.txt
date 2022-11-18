@@ -1,0 +1,28 @@
+Mui Player：
+	多格式支持：支持 mp4、m3u8、flv 等多种媒体格式播放，解决大部分兼容问题，同时适应在PC、手机端播放。
+
+	丰富的可配置API：MuiPlayer 具有丰富的参数可以自定义播放器实例，通过轻松的配置即可完成自定义场景的视频播放。
+
+	简约的设计风格：播放器设计风格轻松而简约，可自定义配置播放器的主题样式。在PC、手机端独立还拥有一套美观的功能控件设计。
+
+特点：
+	MuiPlayer 帮助我们解决了日常 H5 Video 应用开发中的常见的一些大量问题：
+
+	各浏览器平台播放 ui 不能统一
+	ui 扩展之间以及状态处理容易产生冲突
+	在不同环境下（android、ios、pc）针对 h5 video api 可能触发事件的时机尽不相同
+	媒体格式存在各种兼容问题，muiplayer 处理了大多数在不同环境下播放的兼容问题
+	重复踩踏在开发 h5 video 过程中的一些坑，我们提供了一套完好的解决方案，让开发者少走一些弯路
+
+
+
+示例文件：
+	main.html Mui Player 主要演示，包括加载视频弹幕的应用
+	basis-example.html 示例初始化插件，创建播放器基础应用
+	desktop-plugin-example.html 示例 muiplayer 应用桌面端扩展应用插件
+
+
+
+官网：https://muiplayer.js.org/
+
+Gitee 托管仓库：https://gitee.com/muiplayer/hello-muiplayer
