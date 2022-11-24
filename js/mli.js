@@ -1,4 +1,5 @@
 /*! mli */
+
 function ck () {
 	pwd=document.getElementById('pwd').value;
 	con=document.getElementById('con');
