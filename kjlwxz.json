@@ -1,0 +1,1563 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 16,
+				"label": "中国",
+				"x": 0.3579,
+				"y": -0.3039,
+				"cluster": 3,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.3333
+				}
+			},
+			{
+				"id": 17,
+				"label": "中国式现代化",
+				"x": -0.1401,
+				"y": -0.3086,
+				"cluster": 9,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.5000
+				}
+			},
+			{
+				"id": 34,
+				"label": "低碳城市",
+				"x": 0.2569,
+				"y": 0.0358,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.6667
+				}
+			},
+			{
+				"id": 73,
+				"label": "发展战略",
+				"x": 0.4596,
+				"y": -0.5388,
+				"cluster": 3,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2008.0000
+				}
+			},
+			{
+				"id": 75,
+				"label": "发展模式",
+				"x": 1.1966,
+				"y": 0.2609,
+				"cluster": 5,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.3333
+				}
+			},
+			{
+				"id": 78,
+				"label": "可持续发展",
+				"x": 0.0663,
+				"y": -0.0694,
+				"cluster": 10,
+				"weights": {
+					"Links": 18.0000,
+					"Total link strength": 30.0000,
+					"Occurrences": 24.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2008.7500
+				}
+			},
+			{
+				"id": 112,
+				"label": "城市化",
+				"x": 0.2773,
+				"y": -0.3806,
+				"cluster": 6,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000
+				}
+			},
+			{
+				"id": 113,
+				"label": "城市发展",
+				"x": 0.0699,
+				"y": 0.6717,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.2500
+				}
+			},
+			{
+				"id": 117,
+				"label": "城市可持续发展",
+				"x": -1.0379,
+				"y": 0.4686,
+				"cluster": 4,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5000
+				}
+			},
+			{
+				"id": 123,
+				"label": "城市废弃物",
+				"x": 0.1989,
+				"y": -0.6630,
+				"cluster": 7,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.5000
+				}
+			},
+			{
+				"id": 124,
+				"label": "城市建设",
+				"x": 0.3689,
+				"y": -0.7417,
+				"cluster": 7,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.6667
+				}
+			},
+			{
+				"id": 125,
+				"label": "城市形态",
+				"x": -0.1001,
+				"y": -0.2802,
+				"cluster": 9,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000
+				}
+			},
+			{
+				"id": 131,
+				"label": "城市更新",
+				"x": -0.5386,
+				"y": -0.3964,
+				"cluster": 2,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.2500
+				}
+			},
+			{
+				"id": 133,
+				"label": "城市治理",
+				"x": 1.3631,
+				"y": 0.2910,
+				"cluster": 5,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.5000
+				}
+			},
+			{
+				"id": 136,
+				"label": "城市现代化",
+				"x": -0.1435,
+				"y": -0.2758,
+				"cluster": 9,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.5000
+				}
+			},
+			{
+				"id": 138,
+				"label": "城市绿化",
+				"x": 1.1436,
+				"y": 0.3204,
+				"cluster": 5,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.5000
+				}
+			},
+			{
+				"id": 146,
+				"label": "城市规划",
+				"x": 1.1161,
+				"y": 0.2900,
+				"cluster": 5,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2008.0000
+				}
+			},
+			{
+				"id": 150,
+				"label": "城市设计",
+				"x": 0.2057,
+				"y": -0.2830,
+				"cluster": 3,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.5000
+				}
+			},
+			{
+				"id": 152,
+				"label": "城市轨道交通",
+				"x": -0.0477,
+				"y": -0.5572,
+				"cluster": 6,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.6667
+				}
+			},
+			{
+				"id": 154,
+				"label": "城镇化",
+				"x": 0.2909,
+				"y": 0.2237,
+				"cluster": 8,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000
+				}
+			},
+			{
+				"id": 155,
+				"label": "基础设施",
+				"x": -0.3771,
+				"y": -0.5403,
+				"cluster": 6,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.5000
+				}
+			},
+			{
+				"id": 170,
+				"label": "实效性",
+				"x": -0.9037,
+				"y": -0.4193,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.5000
+				}
+			},
+			{
+				"id": 188,
+				"label": "建筑环境",
+				"x": 0.2903,
+				"y": -0.1477,
+				"cluster": 3,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 1998.5000
+				}
+			},
+			{
+				"id": 193,
+				"label": "影响因素",
+				"x": -0.8413,
+				"y": -0.3428,
+				"cluster": 2,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.6667
+				}
+			},
+			{
+				"id": 195,
+				"label": "循环经济",
+				"x": 0.0248,
+				"y": 0.4941,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.0000
+				}
+			},
+			{
+				"id": 201,
+				"label": "技术体系",
+				"x": -0.7581,
+				"y": -0.3904,
+				"cluster": 2,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5000
+				}
+			},
+			{
+				"id": 202,
+				"label": "指标体系",
+				"x": -0.6462,
+				"y": -0.3351,
+				"cluster": 2,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.4000
+				}
+			},
+			{
+				"id": 208,
+				"label": "政策",
+				"x": -0.0281,
+				"y": 0.8770,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.5000
+				}
+			},
+			{
+				"id": 216,
+				"label": "新型城镇化",
+				"x": -0.0735,
+				"y": 0.8256,
+				"cluster": 1,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000
+				}
+			},
+			{
+				"id": 217,
+				"label": "新城市主义",
+				"x": -1.1697,
+				"y": 0.3852,
+				"cluster": 4,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.5000
+				}
+			},
+			{
+				"id": 241,
+				"label": "欧洲",
+				"x": 0.4757,
+				"y": 0.2326,
+				"cluster": 8,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.5000
+				}
+			},
+			{
+				"id": 265,
+				"label": "环境保护",
+				"x": 0.1467,
+				"y": -0.5298,
+				"cluster": 7,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.6000
+				}
+			},
+			{
+				"id": 277,
+				"label": "环境质量",
+				"x": 0.3765,
+				"y": 0.3890,
+				"cluster": 8,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0000
+				}
+			},
+			{
+				"id": 282,
+				"label": "理论体系",
+				"x": -0.1167,
+				"y": 0.4231,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.6667
+				}
+			},
+			{
+				"id": 287,
+				"label": "生态型城市",
+				"x": -1.1023,
+				"y": 0.4348,
+				"cluster": 4,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000
+				}
+			},
+			{
+				"id": 288,
+				"label": "生态城",
+				"x": -0.8607,
+				"y": -0.4184,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.6667
+				}
+			},
+			{
+				"id": 293,
+				"label": "生态文明",
+				"x": -0.0047,
+				"y": 0.3514,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.7500
+				}
+			},
+			{
+				"id": 294,
+				"label": "生态环境",
+				"x": -0.7615,
+				"y": -0.2822,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.0000
+				}
+			},
+			{
+				"id": 303,
+				"label": "碳中和",
+				"x": -0.3639,
+				"y": -0.6097,
+				"cluster": 6,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.5000
+				}
+			},
+			{
+				"id": 325,
+				"label": "精明增长",
+				"x": -1.1632,
+				"y": 0.3334,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000
+				}
+			},
+			{
+				"id": 329,
+				"label": "紧凑型城市",
+				"x": -1.1273,
+				"y": 0.4722,
+				"cluster": 4,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000
+				}
+			},
+			{
+				"id": 330,
+				"label": "紧凑城市",
+				"x": 1.0465,
+				"y": 0.2356,
+				"cluster": 5,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.5000
+				}
+			},
+			{
+				"id": 349,
+				"label": "绿色制度",
+				"x": -0.0920,
+				"y": 1.0107,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5000
+				}
+			},
+			{
+				"id": 350,
+				"label": "绿色化",
+				"x": 0.0684,
+				"y": -0.4919,
+				"cluster": 6,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000
+				}
+			},
+			{
+				"id": 351,
+				"label": "绿色北京",
+				"x": 0.0617,
+				"y": 0.0383,
+				"cluster": 10,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.0000
+				}
+			},
+			{
+				"id": 353,
+				"label": "绿色南京",
+				"x": 0.3941,
+				"y": -0.8086,
+				"cluster": 7,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2008.0000
+				}
+			},
+			{
+				"id": 355,
+				"label": "绿色发展",
+				"x": -0.1393,
+				"y": 0.9236,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000
+				}
+			},
+			{
+				"id": 357,
+				"label": "绿色城市",
+				"x": -0.3559,
+				"y": 0.0600,
+				"cluster": 4,
+				"weights": {
+					"Links": 28.0000,
+					"Total link strength": 51.0000,
+					"Occurrences": 48.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.8298
+				}
+			},
+			{
+				"id": 358,
+				"label": "绿色城市主义",
+				"x": 0.7045,
+				"y": 0.1500,
+				"cluster": 8,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 11.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.0000
+				}
+			},
+			{
+				"id": 361,
+				"label": "绿色城市更新",
+				"x": 1.3351,
+				"y": 0.2858,
+				"cluster": 5,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000
+				}
+			},
+			{
+				"id": 367,
+				"label": "绿色城市设计",
+				"x": 0.3784,
+				"y": -0.0379,
+				"cluster": 3,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 9.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.2222
+				}
+			},
+			{
+				"id": 370,
+				"label": "绿色城镇化",
+				"x": -0.0605,
+				"y": 0.9880,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000
+				}
+			},
+			{
+				"id": 374,
+				"label": "绿色建筑",
+				"x": -0.3165,
+				"y": -0.5635,
+				"cluster": 6,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.2500
+				}
+			},
+			{
+				"id": 385,
+				"label": "绿色生态城市",
+				"x": -0.0513,
+				"y": 0.7087,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5000
+				}
+			},
+			{
+				"id": 390,
+				"label": "绿色经济",
+				"x": 0.5590,
+				"y": -0.4792,
+				"cluster": 11,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.5000
+				}
+			},
+			{
+				"id": 395,
+				"label": "绿色转型",
+				"x": 0.6571,
+				"y": -0.5224,
+				"cluster": 11,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.5000
+				}
+			},
+			{
+				"id": 403,
+				"label": "自然",
+				"x": -0.1277,
+				"y": 0.0608,
+				"cluster": 10,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.0000
+				}
+			},
+			{
+				"id": 417,
+				"label": "规划设计",
+				"x": -0.6124,
+				"y": 0.2209,
+				"cluster": 4,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.5000
+				}
+			},
+			{
+				"id": 431,
+				"label": "轨道交通",
+				"x": 0.5081,
+				"y": -0.5955,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0000
+				}
+			},
+			{
+				"id": 444,
+				"label": "风景园林",
+				"x": -0.3368,
+				"y": -0.1494,
+				"cluster": 2,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2500
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 16,
+				"target_id": 73,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 150,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 367,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 125,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 136,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 357,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 367,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 73,
+				"target_id": 124,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 73,
+				"target_id": 150,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 73,
+				"target_id": 357,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 73,
+				"target_id": 390,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 73,
+				"target_id": 431,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 146,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 330,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 358,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 361,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 112,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 136,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 150,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 154,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 188,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 195,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 202,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 241,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 265,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 294,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 330,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 350,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 351,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 357,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 358,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 367,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 390,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 403,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 350,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 358,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 390,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 113,
+				"target_id": 195,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 113,
+				"target_id": 208,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 113,
+				"target_id": 216,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 113,
+				"target_id": 277,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 113,
+				"target_id": 357,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 113,
+				"target_id": 385,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 287,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 329,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 357,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 124,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 265,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 357,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 124,
+				"target_id": 265,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 124,
+				"target_id": 353,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 124,
+				"target_id": 357,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 124,
+				"target_id": 390,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 125,
+				"target_id": 136,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 125,
+				"target_id": 150,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 125,
+				"target_id": 444,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 131,
+				"target_id": 201,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 131,
+				"target_id": 202,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 131,
+				"target_id": 357,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 131,
+				"target_id": 374,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 131,
+				"target_id": 444,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 133,
+				"target_id": 361,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 138,
+				"target_id": 146,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 146,
+				"target_id": 330,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 146,
+				"target_id": 358,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 150,
+				"target_id": 188,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 150,
+				"target_id": 444,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 152,
+				"target_id": 265,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 152,
+				"target_id": 350,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 152,
+				"target_id": 374,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 241,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 265,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 277,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 293,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 357,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 358,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 155,
+				"target_id": 357,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 155,
+				"target_id": 374,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 170,
+				"target_id": 193,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 170,
+				"target_id": 201,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 170,
+				"target_id": 288,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 188,
+				"target_id": 367,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 193,
+				"target_id": 201,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 193,
+				"target_id": 288,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 193,
+				"target_id": 294,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 193,
+				"target_id": 357,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 195,
+				"target_id": 357,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 201,
+				"target_id": 202,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 201,
+				"target_id": 288,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 201,
+				"target_id": 444,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 288,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 357,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 444,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 208,
+				"target_id": 216,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 208,
+				"target_id": 370,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 208,
+				"target_id": 385,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 216,
+				"target_id": 355,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 216,
+				"target_id": 357,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 216,
+				"target_id": 385,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 217,
+				"target_id": 287,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 217,
+				"target_id": 325,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 217,
+				"target_id": 329,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 217,
+				"target_id": 357,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 241,
+				"target_id": 277,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 241,
+				"target_id": 358,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 241,
+				"target_id": 367,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 265,
+				"target_id": 357,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 277,
+				"target_id": 358,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 293,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 357,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 385,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 444,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 287,
+				"target_id": 329,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 287,
+				"target_id": 357,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 293,
+				"target_id": 357,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 303,
+				"target_id": 357,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 303,
+				"target_id": 374,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 325,
+				"target_id": 357,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 329,
+				"target_id": 357,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 330,
+				"target_id": 358,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 349,
+				"target_id": 355,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 349,
+				"target_id": 370,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 355,
+				"target_id": 357,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 357,
+				"target_id": 374,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 357,
+				"target_id": 390,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 357,
+				"target_id": 403,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 357,
+				"target_id": 417,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 357,
+				"target_id": 444,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 358,
+				"target_id": 367,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 358,
+				"target_id": 390,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 390,
+				"target_id": 395,
+				"strength": 1.0000
+			}
+		]
+	}
+}
